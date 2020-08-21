@@ -1,5 +1,7 @@
 # Hi There!!👋 
-## This is Deepak <<desodhan@live.in>>,
+## This is Deepak [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+GitHub watchers
+## <<desodhan@live.in>>,
 ## LTE/5G-NR protocol stack developer with 3.5+yrs of expertise in coding 3gpp 36.xxx and 38.xxx specifications onto advance SoCs.
 ### **_Profile Summary:_**
 * #### A software professional with 3.5+ years of experience on 3GPP L2, L3 layers ofLTE and NR protocol stack development and testing.
