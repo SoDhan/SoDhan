@@ -1,5 +1,5 @@
 # Hi There!!👋 
-## This is Deepak [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+## This is Deepak [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/SoDhan/)
 GitHub watchers
 ## <<desodhan@live.in>>,
 ## LTE/5G-NR protocol stack developer with 3.5+yrs of expertise in coding 3gpp 36.xxx and 38.xxx specifications onto advance SoCs.
